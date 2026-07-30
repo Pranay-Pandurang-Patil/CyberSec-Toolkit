@@ -1,19 +1,39 @@
 import streamlit as st
-from modules import port_scanner, file_integrity
+from modules import port_scanner, file_integrity, password_analyzer, steganography_detector
 
-st.set_page_config(page_title="CyberSec Toolkit", layout="centered")
+# Sidebar Title
+st.sidebar.title("🛡️ CyberSec Toolkit")
 
-st.title("🛡️ CyberSec Toolkit")
-st.write("Beginner-friendly cybersecurity fundamentals — all offline and safe.")
+# Sidebar Info Box
+st.sidebar.info(
+    "📘 Cyber Security Project (Medium Level)\n\n"
+    "Developed for educational purposes only.\n\n"
+    "Modules included:\n"
+    "🔍 Port Scanner – Scan open ports on a target system.\n"
+    "🗂️ File Integrity Checker – Verify file hashes to detect tampering.\n"
+    "🔑 Password Analyzer – Check password strength and entropy.\n"
+    "🖼️ Steganography Detector – Detect hidden text in PNG images.\n\n"
+    "⚠️ Note: Steganography Detector works only with PNG images. "
+    "Hidden messages must end with the marker 'END'."
+)
 
-# Sidebar menu
-menu = st.sidebar.radio("Select a module:", [
-    "Port Scanner",
-    "File Integrity Checker"
-])
+# Sidebar Module Selection
+module = st.sidebar.radio(
+    "Select a module:",
+    (
+        "🔍 Port Scanner",
+        "🗂️ File Integrity Checker",
+        "🔑 Password Analyzer",
+        "🖼️ Steganography Detector"
+    )
+)
 
-# Show only the selected module
-if menu == "Port Scanner":
+# Module Routing
+if module == "🔍 Port Scanner":
     port_scanner.run()
-elif menu == "File Integrity Checker":
+elif module == "🗂️ File Integrity Checker":
     file_integrity.run()
+elif module == "🔑 Password Analyzer":
+    password_analyzer.run()
+elif module == "🖼️ Steganography Detector":
+    steganography_detector.run()
