@@ -63,21 +63,17 @@ END
 
 ```
 CyberSec-Toolkit/
-│
 ├── main.py
-│
 ├── modules/
 │   ├── port_scanner.py
 │   ├── file_integrity.py
 │   ├── password_analyzer.py
 │   └── steganography_detector.py
-│
 ├── requirements.txt
-│
 ├── README.md
-│
 └── assets/
     └── screenshots/
+
 ```
 
 ---
