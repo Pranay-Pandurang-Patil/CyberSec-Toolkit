@@ -6,7 +6,7 @@ Developed for **educational purposes only** by **Pranay P Patil**,
 **Computer Science & Engineering (CSE) Student**  
 **KLS Gogte Institute of Technology, Belgaum**
 
-🔗 **GitHub:** https://github.com/PranayPPatil
+🔗 **GitHub:** https://github.com/Pranay-Pandurang-Patil
 
 ---
 
@@ -14,7 +14,7 @@ Developed for **educational purposes only** by **Pranay P Patil**,
 
 CyberSec Toolkit is a medium-level cybersecurity project built using **Python** and **Streamlit**. It helps students and cybersecurity enthusiasts understand essential security concepts through hands-on experimentation.
 
-The toolkit provides multiple security modules in a simple graphical interface, making cybersecurity learning easier without requiring complex command-line tools.
+The toolkit provides multiple security modules through an intuitive graphical interface, allowing users to explore cybersecurity concepts without relying solely on command-line tools.
 
 > **Note:** This project is intended for educational and demonstration purposes only.
 
@@ -211,36 +211,24 @@ Analyze password strength, entropy, and receive security recommendations.
 
 ## 🖼️ Steganography Detector
 
-Extract hidden text from PNG images using LSB analysis.
+Extract hidden text from PNG images using LSB (Least Significant Bit) analysis.
 
 ![Steganography Detector](assets/screenshots/steganography_detector.png)
-## Home
-
-![Home](assets/screenshots/home.png)
-
-## Port Scanner
-
-![Port Scanner](assets/screenshots/port_scanner.png)
-
-## Password Analyzer
-
-![Password Analyzer](assets/screenshots/password_analyzer.png)
-```
 
 ---
 
 # 🎯 Learning Objectives
 
-This project demonstrates practical implementation of:
+This project demonstrates the practical implementation of the following cybersecurity and software development concepts:
 
-- Socket Programming
-- Network Scanning
-- Password Security
-- Cryptographic Hash Functions
-- File Integrity Verification
-- Steganography
-- Python GUI Development
-- Streamlit Applications
+- TCP Network Programming
+- TCP Port Scanning
+- Password Strength Analysis and Entropy Calculation
+- Cryptographic Hash Functions for File Integrity Verification
+- Least Significant Bit (LSB) Steganography Detection
+- Secure Python Programming Practices
+- Interactive Web Application Development using Streamlit
+- Ethical Cybersecurity Principles and Responsible Use
 
 ---
 
@@ -248,7 +236,7 @@ This project demonstrates practical implementation of:
 
 This project is developed **strictly for educational purposes**.
 
-It is intended to use cybersecurity concepts in a safe and ethical environment.
+It is intended to demonstrate cybersecurity concepts in a safe and ethical environment.
 
 Do **NOT** use this toolkit against systems or networks without proper authorization.
 
@@ -272,7 +260,7 @@ Computer Science & Engineering (CSE) Student
 
 KLS Gogte Institute of Technology, Belgaum
 
-GitHub: https://github.com/PranayPPatil
+GitHub: https://github.com/Pranay-Pandurang-Patil
 
 ---
 
