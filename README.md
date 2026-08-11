@@ -56,6 +56,17 @@ The toolkit provides multiple security modules through an intuitive graphical in
 ```
 END
 ```
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+**[🚀 Open Live Demo](https://cybersec-toolkit.streamlit.app/)**
+
+> ⚠️ **Note:** The Streamlit app may temporarily show an **"Inactive"** state when it has not been accessed for some time.
+>
+> If this happens, click **"Inactive"** and return to the project/app page to activate it. Then wait a few seconds for the application to start.
+>
+> This is related to Streamlit Community Cloud's app sleep/inactivity behavior and does not indicate a problem with the project.
 
 ---
 
