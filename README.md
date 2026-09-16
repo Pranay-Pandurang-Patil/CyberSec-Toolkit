@@ -25,7 +25,7 @@ The toolkit provides multiple security modules through an intuitive graphical in
 ## 🔍 Port Scanner
 - Scan common TCP ports on a target IP address or domain.
 - Detect open ports.
-- Fast and beginner-friendly interface.
+- Fast, reliable and beginner-friendly interface.
 
 ---
 
