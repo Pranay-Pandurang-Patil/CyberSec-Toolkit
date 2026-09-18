@@ -12,7 +12,7 @@ Developed for **educational purposes only** by **Pranay P Patil**,
 
 # 📘 Overview
 
-CyberSec Toolkit is a medium-level cybersecurity project built using **Python** and **Streamlit**. It helps students and cybersecurity enthusiasts understand essential security concepts through hands-on experimentation.
+CyberSec Toolkit is  medium-level cybersecurity project built using **Python** and **Streamlit**. It helps students and cybersecurity enthusiasts understand essential security concepts through hands-on experimentation.
 
 The toolkit provides multiple security modules through an intuitive graphical interface, allowing users to explore cybersecurity concepts without relying solely on command-line tools.
 
@@ -25,7 +25,7 @@ The toolkit provides multiple security modules through an intuitive graphical in
 ## 🔍 Port Scanner
 - Scan common TCP ports on a target IP address or domain.
 - Detect open ports.
-- Fast, reliable and beginner-friendly interface.
+- Fast, reliable with beginner-friendly interface.
 
 ---
 
