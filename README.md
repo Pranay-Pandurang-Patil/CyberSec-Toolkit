@@ -2,7 +2,7 @@
 
 A **Streamlit-based Cyber Security Toolkit** demonstrating practical cybersecurity concepts through an interactive web interface.
 
-Developed for **educational purposes only** by **Pranay P Patil**,  
+Developed for **educational purposes only** by **Pranay Patil**,  
 **Computer Science & Engineering (CSE) Student**  
 **KLS Gogte Institute of Technology, Belgaum**
 
@@ -40,7 +40,7 @@ The toolkit provides multiple security modules through an intuitive graphical in
 - Analyze password complexity.
 - Check password strength.
 - Evaluate password entropy.
-- Suggest improvements for stronger passwords.
+- Suggest improvements for stronger and safe passwords.
 
 ---
 
