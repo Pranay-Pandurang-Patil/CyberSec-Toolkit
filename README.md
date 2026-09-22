@@ -172,9 +172,9 @@ Choose a module from the sidebar.
 
 - Enter a password.
 - View:
-  - Password Strength
-  - Entropy
-  - Security Suggestions
+  - Password Strength.
+  - Entropy.
+  - Security Suggestions.
 
 ---
 
